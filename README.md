@@ -10,8 +10,6 @@ Hey I'm Xander, an aspiring full stack developer who has a passion for technolog
 
 Among other things my hobbies and passions include, gaming far too much, spending copious amounts on hardware and throwing myself down a mountain with a piece of wood strapped to my feet. 
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xr89&label=Profile%20views&color=0e75b6&style=flat" alt="xr89" /> </p>
 
 <h3 align="left">Connect with me:</h3>
