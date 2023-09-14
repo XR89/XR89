@@ -1,4 +1,4 @@
-Hey I'm Xander, a junior full stack developer who has a passion for technology which stemmed from when I first built my own computer. Despite spending some time working in multiple different areas I have finally settled on my future career and have been working at an advertising company contributing and working on their CMS and several other code bases. 
+Hey I'm Xander, a junior full stack developer who has a passion for technology which stemmed from when I first built my own computer. Despite spending some time working in multiple different areas I have finally settled on my future career and have been working at an advertising company contributing and working on their CMS and several other code bases. Please note that all activity on my github are squashed merges into master so are not reflective of day to day work.
 
 - 🔭 I’m currently working on an internal CMS system for an advertising company
 - 🌱 I’m currently expanding my React and Node knowledge
@@ -7,7 +7,7 @@ Hey I'm Xander, a junior full stack developer who has a passion for technology w
 - 📫 How to reach me: https://www.linkedin.com/in/xander-reardon/
 - ⚡ Fun fact: I played enough hours on WoW to technically be considered a master (10,000+ hours) ... I was not a master. 😅
 
-Among other things my hobbies and passions include, gaming far too much, spending copious amounts on hardware and throwing myself down a mountain with a piece of wood strapped to my feet. 
+Among other things my hobbies and passions include, gaming too much, spending copious amounts on hardware and throwing myself down a mountain with a piece of wood strapped to my feet. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xr89&label=Profile%20views&color=0e75b6&style=flat" alt="xr89" /> </p>
 
