@@ -1,9 +1,8 @@
-Hey I'm Xander, a junior full stack developer who has a passion for technology which stemmed from when I first built my own computer. Despite spending some time working in multiple different areas I have finally settled on my future career and hope to dive into the deep end of both front and backend development. 
+Hey I'm Xander, a junior full stack developer who has a passion for technology which stemmed from when I first built my own computer. Despite spending some time working in multiple different areas I have finally settled on my future career and have been working at an advertising company contributing and working on their CMS and several other code bases. 
 
 - 🔭 I’m currently working on an internal CMS system for an advertising company
 - 🌱 I’m currently expanding my React and Node knowledge
-- 👯 I’m looking to collaborate on any interesting projects!
-- 🤔 I’m looking for help with React
+- 👯 I’m looking to collaborate on any interesting projects
 - 💬 Ask me about anything!
 - 📫 How to reach me: https://www.linkedin.com/in/xander-reardon/
 - ⚡ Fun fact: I played enough hours on WoW to technically be considered a master (10,000+ hours) ... I was not a master. 😅
